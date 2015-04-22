@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/0821/jmdns-3.4.0/lib/jmdns.jar" sourcepath="C:/Users/Administrator/Desktop/0821/jmdns-3.4.0/src"/>
+	<classpathentry kind="lib" path="lib/urlparse.jar"/>
+	<classpathentry kind="lib" path="D:/lib/gson-2.2.4.jar" sourcepath="D:/lib/gson-2.2.4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/lib/gson-2.2.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/1126/netty-5.0.0.Alpha1/netty-5.0.0.Alpha1/jar/all-in-one/netty-all-5.0.0.Alpha1.jar" sourcepath="C:/Users/Administrator/Desktop/1126/netty-5.0.0.Alpha1/netty-5.0.0.Alpha1/jar/all-in-one/netty-all-5.0.0.Alpha1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/apache/mina/apache-mina-2.0.9-bin/apache-mina-2.0.9/dist/mina-core-2.0.9.jar" sourcepath="D:/apache/mina/apache-mina-2.0.9-src.zip"/>
+	<classpathentry kind="lib" path="D:/apache/mina/apache-mina-2.0.9-bin/apache-mina-2.0.9/dist/mina-example-2.0.9.jar" sourcepath="D:/apache/mina/apache-mina-2.0.9-src.zip"/>
+	<classpathentry kind="lib" path="D:/apache/mina/apache-mina-2.0.9-bin/apache-mina-2.0.9/dist/mina-filter-compression-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/apache/mina/apache-mina-2.0.9-bin/apache-mina-2.0.9/dist/mina-http-2.0.9.jar" sourcepath="D:/apache/mina/apache-mina-2.0.9-src.zip"/>
+	<classpathentry kind="lib" path="D:/apache/mina/apache-mina-2.0.9-bin/apache-mina-2.0.9/dist/mina-integration-beans-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/apache/mina/apache-mina-2.0.9-bin/apache-mina-2.0.9/dist/mina-integration-jmx-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/apache/mina/apache-mina-2.0.9-bin/apache-mina-2.0.9/dist/mina-integration-ognl-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/apache/mina/apache-mina-2.0.9-bin/apache-mina-2.0.9/dist/mina-integration-xbean-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/apache/mina/apache-mina-2.0.9-bin/apache-mina-2.0.9/dist/mina-statemachine-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/apache/mina/apache-mina-2.0.9-bin/apache-mina-2.0.9/dist/mina-transport-apr-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/apache/mina/apache-mina-2.0.9-bin/apache-mina-2.0.9/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/workdiary/0302/Guava/guava-18.0.jar" sourcepath="C:/Users/Administrator/Desktop/workdiary/0302/Guava/guava-18.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Administrator/Desktop/workdiary/0302/Guava/guava-18.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/workdiary/0302/RxJava/rxjava-1.0.8.jar" sourcepath="C:/Users/Administrator/Desktop/workdiary/0302/RxJava/rxjava-1.0.8-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Administrator/Desktop/workdiary/0302/RxJava/rxjava-1.0.8-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/workdiary/0302/RxJava/rxandroid-0.24.0.jar" sourcepath="C:/Users/Administrator/Desktop/workdiary/0302/RxJava/rxandroid-0.24.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Administrator/Desktop/workdiary/0302/RxJava/rxandroid-0.24.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
